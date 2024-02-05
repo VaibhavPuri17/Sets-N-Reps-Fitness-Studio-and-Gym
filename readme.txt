@@ -32,7 +32,7 @@ I would like to express my sincere appreciation to the following resources that 
  
 
 
-# Hi, I'm Katherine! 👋
+# Hi, I'm Vaibhav Puri! 👋
 
 
 ## 🚀 About Me
@@ -56,5 +56,4 @@ MySQL,	Java Database Connectivity (JDBC)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-puri-a40384237/)
 
 [![github](https://img.shields.io/badge/github-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/VaibhavPuri17)
-
 
